@@ -26,21 +26,34 @@ The body and mechanical parts of the pritner are constructed of 3D printed parts
 
 The main body of the printer is the largest piece of the project and includes several important design features. The first important design decision is the inclusion of a gap in the bottom of the frame, designed to allow the user to pass the piece of paper to be pritned through to the print area. The second important design detail is the inclusion of holes to hold the printer rods near the top. These were an important part to be 3D printed, as the 3D printing process allows keeping much more accurate dimensions than we could constructing by hand using materials such as wood. These are directly in line with each other so the rods stay parallel to each other. The final design detail that is important to note for this part, is the Gear located along the edge on one side. This was also the most difficult detail to include, as none of the members of our group are mechanical engineers and have little expierence modeling 3D parts the way it is. A Fusion 360 add on to produce rack gears helped with this process, however. 
 
-![PLA Filament](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4815.JPEG)
+![Main Body](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4815.JPEG)
 
-## X-Axis carriage
+## X-Axis Carriage
 
-The X-Axis carriage is the next largest piece, 
+The X-Axis carriage is the next largest piece. The X-Axis carriage spans and slides on the cake rods supported by the main body. The X-Axis carriage also contains a mounting bracket for the stepper motor, and holes for more rods that the Y-Axis carriage mount to, as well as the gear for movement of the Y-Axis carriage.
 
-![PLA Filament](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4828.JPEG)
+![X-Axis Carriage](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4828.JPEG)
 
-## Y-Axis carriage
+## Y-Axis Carriage
+
+The Y-Axis Carriage is much more simple and smaller than the other pieces. It just contains holes for the rods supported by the X-Axis carriage and a mount for a stepper motor. The Servo mount attatchs to the bottom of the carriage using brass standoffs.
+
 
 ## Servo Mount
 
+The Servo mount attatchs to the bottom of the Y-Axis carriage and contains a mounting bracket for the small 9g servo, as well as mounting holes for the brass standoffs that the pen bracket moves vertically along. This piece proved problamatic as in the first version of the part the mounting brackets for the servo were undersized and snapped off whenever attatching the servo motor was attempted. Simply increasing the size of the mounting brackets remedied this situation.
+
 ## Pen Bracket
 
+The pen bracket is a very simple piece, it is just a block that contains properly spaced holes to slide on the brass standoffs attatched to the bottom of the Servo mount as well as a hole for the pen or marker to be attatched to. Additionally, it has a cutout on one side for the servo arm to interact with and move.
+
+![X-Axis Carriage](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4900.JPEG)
+
+The image above shows a print with the X-Axis carriage, Y-Axis Carriage, and servo mount. These pieces had to be reprinted to correct issues with them.
+
 ## Gears
+
+The gears were the most difficult 3D printed component to design, as no one in the group was quite sure how to start with them. Another Fusion 360 plugin helped to create the gears, and some trial and error was used to determine the best size to use.
 
 # Electrical Parts
 
@@ -49,6 +62,8 @@ The X-Axis carriage is the next largest piece,
 # Demonstration
 
 # Issues / Improvements
+
+One of the issues was with the hole sizing for the X and Y axis carriages. These parts were designed with holes where the diameter matched exactly the diameter of the rods. This meant that the fit was tight and there was no room for the parts to move back and forth. This was fixed by increasing the diameter of the holes in the 3D model and reprinting the affected parts.
 
 # Cost
 
