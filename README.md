@@ -18,6 +18,7 @@ As a group we used a Trello board to keep track of what tasks needed done, which
 
 # 3D printed parts
 
+
 # Electrical Parts
 
 # Programming
@@ -27,4 +28,26 @@ As a group we used a Trello board to keep track of what tasks needed done, which
 # Issues / Improvements
 
 # Cost
+
+Cost breakdown. Costs for 3D printed parts are estimated from the slicer's estimate of the filament required for printing. Based on $22 per 1kg (335m) spool of 1.75mm PLA. 3D printed parts do not consider the price of electricity used to construct.
+
+| Part | Quantity | Cost | Note |
+| --- | ----------- | --- | --- |
+| Main Body | 1 | $4.67 | PLA |
+| X-Axis carriage | 1 | $1.28 | PLA |
+| Y-Axis carriage  | 1 | $1.67 | PLA |
+| Pen Mount | 2 | $3.13 | PLA |
+| Servo | 2 | $5.49 |  |
+| X-Axis Stepper| 2 | $ |  |
+| Y-Axis Stepper| 2 | N/A | Already Had |
+| Limit Switches | 2 | $1.17 |  |
+| Stepper Driver| 1 | $|  |
+| Raspberry Pi | 1 | |  |
+| 3D printed Gears | 1 | $0.24 | PLA |
+| Brass Standoffs | N/A | $14.99 |  |
+| Cake Rods | 4| $ |  |
+
+
+Total: 
+
 
