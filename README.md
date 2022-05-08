@@ -18,6 +18,21 @@ As a group we used a Trello board to keep track of what tasks needed done, which
 
 # 3D printed parts
 
+The body and mechanical parts of the pritner are constructed of 3D printed parts. These 3D parts were designed collaboratively using the cloud features of Autodesk Fusion 360. All of the 3D parts used in this project are located in this [Folder](https://github.com/rutschsr/ece387FinalGroupProject/tree/main/3-D%20printed%20parts). After the parts were desgined in Fusion 360 they were exported into the  stereolithography (.stl) format to be used by the slicer ([Utlimaker Cura](https://ultimaker.com/software/ultimaker-cura)). A slicer in the context of 3D printing takes a 3D model and sperates it into each of the layers that can be printed by a 3D printer. It then exports these layers in machine "g-code" that give the 3D printer specific instructions on where to move and how to place material. All of the 3D printed parts were printed using white or black PLA (polycactic acid) as shown below.
+
+![PLA Filament](https://srutschilling.net/ECE387/ToyProject/Images/Filament.JPEG)
+
+## Main Body
+
+## X-Axis carriage
+
+## Y-Axis carriage
+
+## Servo Mount
+
+## Pen Bracket
+
+## Gears
 
 # Electrical Parts
 
