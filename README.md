@@ -24,6 +24,8 @@ The body and mechanical parts of the pritner are constructed of 3D printed parts
 
 ## Main Body
 
+![PLA Filament](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4815.JPEG)
+
 ## X-Axis carriage
 
 ## Y-Axis carriage
