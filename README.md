@@ -24,9 +24,15 @@ The body and mechanical parts of the pritner are constructed of 3D printed parts
 
 ## Main Body
 
+The main body of the printer is the largest piece of the project and includes several important design features. The first important design decision is the inclusion of a gap in the bottom of the frame, designed to allow the user to pass the piece of paper to be pritned through to the print area. The second important design detail is the inclusion of holes to hold the printer rods near the top. These were an important part to be 3D printed, as the 3D printing process allows keeping much more accurate dimensions than we could constructing by hand using materials such as wood. These are directly in line with each other so the rods stay parallel to each other. The final design detail that is important to note for this part, is the Gear located along the edge on one side. This was also the most difficult detail to include, as none of the members of our group are mechanical engineers and have little expierence modeling 3D parts the way it is. A Fusion 360 add on to produce rack gears helped with this process, however. 
+
 ![PLA Filament](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4815.JPEG)
 
 ## X-Axis carriage
+
+The X-Axis carriage is the next largest piece, 
+
+![PLA Filament](https://github.com/rutschsr/ece387FinalGroupProject/blob/main/Pictures/IMG_4828.JPEG)
 
 ## Y-Axis carriage
 
