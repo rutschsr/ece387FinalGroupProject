@@ -79,11 +79,12 @@ Cost breakdown. Costs for 3D printed parts are estimated from the slicer's estim
 | X-Axis Stepper| 2 | $ |  |
 | Y-Axis Stepper| 2 | N/A | Already Had |
 | Limit Switches | 2 | $1.17 |  |
-| Stepper Driver| 1 | $|  |
+| Stepper Motor | 1 | $13.99 |  |
+| Stepper Driver| 1 | $28.99|  |
 | Raspberry Pi | 1 | |  |
 | 3D printed Gears | 1 | $0.24 | PLA |
 | Brass Standoffs | N/A | $14.99 |  |
-| Cake Rods | 4| $ |  |
+| Cake Rods | 4 | $9.49 | Pack of 24 |
 
 
 Total: 
