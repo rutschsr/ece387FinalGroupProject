@@ -61,6 +61,8 @@ The gears were the most difficult 3D printed component to design, as no one in t
 
 # Demonstration
 
+[![Img alt text](https://img.youtube.com/vi/LLpY4BQX6XM/0.jpg)](https://www.youtube.com/watch?v=LLpY4BQX6XM)
+
 # Issues / Improvements
 
 One of the issues was with the hole sizing for the X and Y axis carriages. These parts were designed with holes where the diameter matched exactly the diameter of the rods. This meant that the fit was tight and there was no room for the parts to move back and forth. This was fixed by increasing the diameter of the holes in the 3D model and reprinting the affected parts.
