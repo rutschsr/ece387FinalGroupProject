@@ -71,6 +71,8 @@ Programming the robot to operate properly was just a matter of varying the speed
 
 One of the issues was with the hole sizing for the X and Y axis carriages. These parts were designed with holes where the diameter matched exactly the diameter of the rods. This meant that the fit was tight and there was no room for the parts to move back and forth. This was fixed by increasing the diameter of the holes in the 3D model and reprinting the affected parts.
 
+Another improvement we would have made had we had more time is to add the ability to type any arbitrary text into the unit to print. As of now the "hello World" as shown in the demonstration is hard coded.
+
 # Cost
 
 Cost breakdown. Costs for 3D printed parts are estimated from the slicer's estimate of the filament required for printing. Based on $22 per 1kg (335m) spool of 1.75mm PLA. 3D printed parts do not consider the price of electricity used to construct.
