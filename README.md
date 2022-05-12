@@ -92,6 +92,6 @@ Cost breakdown. Costs for 3D printed parts are estimated from the slicer's estim
 | Cake Rods | 4 | $9.49 | Pack of 24 |
 
 
-Total: 
+Total: $85.11
 
 
