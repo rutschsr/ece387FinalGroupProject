@@ -57,7 +57,11 @@ The gears were the most difficult 3D printed component to design, as no one in t
 
 # Electrical Parts
 
+The electrical components of our robot consist of two steppers and a servo motor. Each carriage has a stepper mounted to it in order to move the pen horizontally and vertically. The servo is just used to extend and retract the pen. All three motors are controlled from a raspberry pi through its GPIO pins which allow us to employ pulse width modulation and four-channel stepping for driving the motors.
+
 # Programming
+
+Programming the robot to operate properly was just a matter of varying the speed at which one stepper moves in relation to the other. Steep diagonal movements, for example, can be achieved by stepping the y-axis motor twice for every single x-axis step. A more complicated motion such as a curve requires taking the equation of a circle and mapping a set of x coordinates to that function to produce the corresponding number of y-steps for every x-step.
 
 # Demonstration
 
